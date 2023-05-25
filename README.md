@@ -40,5 +40,7 @@
 ![image1](https://github.com/MoeenH/Transport-using-BST/assets/57503695/47fc3e5f-d48b-40eb-b4c0-04ca7814d8db)
 ![image2](https://github.com/MoeenH/Transport-using-BST/assets/57503695/342df580-308c-4e58-91f9-3bba811668cd)
 
+![img3](https://github.com/MoeenH/Transport-using-BST/assets/57503695/6557fb8b-e27e-4e4a-95a7-2ab754d18c17)
+![img4](https://github.com/MoeenH/Transport-using-BST/assets/57503695/c0824692-86d3-4b9f-8ce4-2811777f12e8)
 
 
