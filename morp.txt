@@ -1,0 +1,11 @@
+OMI@Saddar@20 % OMI to Karachi University at 12pm @ OMI to Teen Talwar at 1pm @
+City Court@Saddar@22 % City Court to Bahadurabad at 1pm @ CityCourt to Kharadar at 2pm @
+Char Minaar@Bahadurabad@15 % Bahadurabad to Tariq road at 3:30pm @ Bahadurabad to Hasan Square at 5pm @ Bahadurabad to Shahrah e Faisal at 7pm @ 
+Dolmen Mall@Tariq Road@17 % Tariq Road to Sindhi Muslim at 2pm @ Tariq Road to Defence Phase V at 3pm @ Tariq Road to Gulshan at 5pm @
+Bolan Sajji@Hassan Square@10 % Hassan Square to Essa Nagri at 10am @ Hassan Square to Karimabad at 11am @ Hassan Square to Ayesha Manzil at 12pm @ Hassan Square to North Nazimabad at 2pm @
+Karachi University@University Road@2 % KU to Gulistan Johar at 2pm @ KU to Safoora Chowk at 3pm @
+Safoora Chowk@Safoora Goth@7 % Safoora Chowk to Model Colony at 9am @ Safoora Chowk to Malir Cantt at 4pm @
+MC Checkpost5@Malir Cantt@8 % MC Checkpost5 to Malir at 2pm @
+Abdullah Shah Ghazi@Clifton@25@ %  Clifton to kharadar at 4 pm @
+Naheed SuperMarket@Shaheed e Millat@14@ %  Shaheed e Millat to KDA at 3pm @ 
+IOBM@Korangi@30@ %  Korangi to Shah Faisal at 12pm @ 
